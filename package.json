@@ -1,0 +1,23 @@
+{
+  "name": "react-simple-loaders",
+  "version": "1.0.0",
+  "description": "A simple set of loaders for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bllgg/react-loaders.git"
+  },
+  "keywords": [
+    "React",
+    "Loaders"
+  ],
+  "author": "Lahiru Gunathilake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bllgg/react-loaders/issues"
+  },
+  "homepage": "https://github.com/bllgg/react-loaders#readme"
+}
