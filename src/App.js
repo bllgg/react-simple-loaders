@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import SegmentedBarLoader from "./components/bars/SegmentedBarLoader/SegmentedBarLoader";
+import SegmentedBarLoader from "./components/bars/segmented-bar-loader/SegmentedBarLoader";
+import DottedSpinner from "./components/spinners/dotted-spinner/DottedSpinner";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a>
          <SegmentedBarLoader/>
+          <DottedSpinner/>
       </header>
     </div>
   );

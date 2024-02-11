@@ -1,4 +1,4 @@
-// SegmentedBarLoader.tsx
+// segmented-bar-loader.tsx
 // @ts-ignore
 import React from 'react';
 import './LoadingAnimation.css'; // Import CSS file
