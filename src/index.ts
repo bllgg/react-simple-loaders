@@ -1,1 +1,0 @@
-export { default as Dot1 } from './components/dots/dot1';
