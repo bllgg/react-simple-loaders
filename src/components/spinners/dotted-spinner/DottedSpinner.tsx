@@ -3,7 +3,7 @@ import './LoadingAnimation.css'
 
 const DottedSpinner = () => {
     return (
-        <div className="lds-roller">
+        <div className="spinner" data-testid="dotted-spinner">
             <div></div>
             <div></div>
             <div></div>
